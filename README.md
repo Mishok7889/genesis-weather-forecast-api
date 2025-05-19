@@ -76,4 +76,9 @@ The application automatically handles database migrations on startup. However, e
 
 ## Deployment
 
-*Deployment details will be added here*
+The application is deployed using **Google Cloud Platform (GCP)**. For the purpose of this project, the infrastructure was set up manually using a VM instance rather than Infrastructure as Code tools like Terraform or Ansible.
+
+### Access Information
+
+- **API URL**: [http://34.71.35.254:8080/](http://34.71.35.254:8080/)
+- The above link also provides access to the **web interface** for subscribing to weather forecast notifications.
